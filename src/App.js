@@ -26,7 +26,7 @@ return(<div key={id}>
 </div>
 
 <div className="container">
-<img src={image} width="330px" height="370" />
+<img src={image} width="330px" height="370" alt="roses"/>
 </div>
 
 <div className="container">
